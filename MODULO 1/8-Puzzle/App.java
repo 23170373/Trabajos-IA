@@ -27,8 +27,9 @@ public class App {
         searchTree.breadthFirstSearch();
         searchTree.uniformCostSearch();
         searchTree.depthFirstSearch();
-
-        System.out.println(searchTree.resumenGlobal); // Imprime el bloque final con la comparativa de memoria y tiempo
+        searchTree.depthLimitedSearchStandalone(20);
+        searchTree.iterativeDeepeningSearch();
+        searchTree.bidirectionalSearch();
 
         System.out.println("End");
     }
