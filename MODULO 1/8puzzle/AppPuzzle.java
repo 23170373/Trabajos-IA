@@ -9,7 +9,7 @@
 * Aquí definimos la configuración de inicio y la meta para probar 
 * el rendimiento de los distintos algoritmos de búsqueda a ciegas.
 */
-public class App {
+public class AppPuzzle {
     public static void main(String[] args) throws Exception {
 
         // El tablero se representa como una cadena de 9 caracteres, leída por renglones.
