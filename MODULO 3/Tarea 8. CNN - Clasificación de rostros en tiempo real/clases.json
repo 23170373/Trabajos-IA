@@ -1,0 +1,17 @@
+{
+  "clases": [
+    "Alexandra_Daddario",
+    "Dwayne_Johnson",
+    "Elizabeth_Olsen",
+    "Emma_Watson",
+    "Robert_Downey_Jr",
+    "Emir_Perez",
+    "Jonathan_Valencia",
+    "Kitzia_Crespo",
+    "Oscar_Sanchez"
+  ],
+  "lado": 128,
+  "arquitectura": "MobileNetV2",
+  "precision_validacion": 0.9111,
+  "precision_validacion_dificil": 0.8056
+}
